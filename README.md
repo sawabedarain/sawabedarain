@@ -67,15 +67,6 @@ I enjoy turning raw data into meaningful insights and deploying models that solv
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sawabedarain&show_icons=true&theme=default&hide_border=true&title_color=185FA5&icon_color=185FA5&text_color=444441" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawabedarain&layout=compact&hide_border=true&title_color=185FA5&text_color=444441" width="38%" />
-</div>
-
----
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-E6F1FB?style=flat-square&logo=linkedin&logoColor=0C447C)](https://linkedin.com/in/Syed-Darain_Hyder-Kazmmi)
@@ -85,5 +76,5 @@ I enjoy turning raw data into meaningful insights and deploying models that solv
 ---
 
 <div align="center">
-<sub>Data Science & AI Intern  ·  Pakistan</sub>
+<sub>Data Science & AI Intern &nbsp;·&nbsp; Pakistan</sub>
 </div>
